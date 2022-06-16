@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/burhanharoon/crud-rest-api-node-js-express-postgresql#readme",
   "dependencies": {
+    "dotenv": "^16.0.1",
     "express": "^4.18.1",
-    "pg": "^8.7.3"
+    "pg": "^8.7.3",
+    "pg-pool": "^3.5.1"
   }
 }
