@@ -1,0 +1,28 @@
+{
+  "name": "crud-rest-api-node-js-express-postgresql",
+  "version": "1.0.0",
+  "description": "This is a minimal example to creating your first PERN based web application that uses postgres sql as the database, node and express and the server and react as a frontend.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burhanharoon/crud-rest-api-node-js-express-postgresql.git"
+  },
+  "keywords": [
+    "postgres"
+  ],
+  "author": "Burhan Haroon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/burhanharoon/crud-rest-api-node-js-express-postgresql/issues"
+  },
+  "homepage": "https://github.com/burhanharoon/crud-rest-api-node-js-express-postgresql#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.7.3"
+  }
+}
