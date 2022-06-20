@@ -1,1 +1,0 @@
-This is a minimal example of CRUD based PERN Web application. 
